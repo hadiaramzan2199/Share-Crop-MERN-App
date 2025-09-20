@@ -73,8 +73,8 @@ Before running this application, ensure you have the following installed:
 The application comes with pre-configured test accounts:
 
 ### Farmer Account
-- **Email**: `farmer@test.com`
-- **Password**: `farmer123`
+- **Email**: `markrobin@farmer.com`
+- **Password**: `123456789`
 - **Features**: Create fields, manage products, handle orders
 
 ### Buyer Account
