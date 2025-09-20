@@ -1,5 +1,4 @@
-# ShareCrop - Smart Agriculture Platform (Frontend)
-
+# ShareCrop - Smart Agriculture Platform
 A modern React-based web application for connecting farmers and buyers in a digital marketplace for agricultural products and field rentals.
 
 ## 🌾 Features
