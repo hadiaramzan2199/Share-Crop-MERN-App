@@ -8,7 +8,7 @@ A modern React-based web application for connecting farmers and buyers in a digi
   - **Farmers**: Create and manage fields, list products, handle orders
   - **Buyers**: Browse and purchase agricultural products, rent fields
 
-**FARMERS HAVE THE HAVE PRIVILLAGES AS BUYERS TOO**
+**FARMERS HAVE THE HAVE PRIVILEGES AS BUYERS TOO**
 - **Real-time Search**: Search for farms, products, and locations with live results
 - **Field Management**: Create, edit, and manage agricultural fields with precise location data
 - **Order System**: Complete order management with notifications and tracking
