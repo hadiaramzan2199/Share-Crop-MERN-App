@@ -78,7 +78,7 @@ The application comes with pre-configured test accounts:
 - **Features**: Create fields, manage products, handle orders
 
 ### Buyer Account
-- **Email**: `buyer@test.com`
+- **Email**: `johndoe@buyer.com`
 - **Password**: `buyer123`
 - **Features**: Browse products, make purchases, rent fields
 
